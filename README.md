@@ -28,7 +28,7 @@ From Bestbuy laptop sample data in 2017. Is ad impression demand sensitive to it
 
 Laptop, Desktop Price Elasticity     |
 :-------------------------:|
-![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images/1.png)
+![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images%20Folder/1.png)
 
 
 - ### [Cross-Price Elasticity of Ad Impression Demand]
@@ -48,7 +48,7 @@ Laptop, Desktop Price Elasticity     |
 
 Cross-Price Elasticity of 12 Mac Book     |
 :-------------------------:|
-![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images/2.png)
+![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images%20Folder/2.png)
 
 # 2. Exploratory Data Analysis EDA #
  
@@ -68,7 +68,7 @@ For further calculation of price elasticities with multilinear regression model.
 
 Price Distribution Plot     | Price Discount Correlation Heatmap
 :-------------------------:|:-------------------------:
-![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images/3.png)  |  ![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images/4.png)
+![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images%20Folder/3.png)  |  ![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images%20Folder/4.png)
 
 
 # 3. Data Cleaning and Preprocessing #
@@ -82,4 +82,4 @@ Price Distribution Plot     | Price Discount Correlation Heatmap
 
 Null, Unique and Datatype column values table    |
 :-------------------------:|
-![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images/5.png)
+![](https://github.com/Ankit-Sharma1404/Price-Elasticity-Model/blob/main/Images%20Folder/5.png)
